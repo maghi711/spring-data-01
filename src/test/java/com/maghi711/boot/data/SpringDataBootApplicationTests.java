@@ -1,4 +1,4 @@
-package com.maghi711.boot.data.springdataboot;
+package com.maghi711.boot.data;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
